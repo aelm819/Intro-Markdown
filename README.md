@@ -65,6 +65,9 @@ print(f'La temperatura en grados Farenheit es: {farenheit}')
 
 > La automatización y la documentación son la clave para un despliegue eficiente en entornos de producción.
 
-#### Licencia
+#### Recursos y Documentación Adicional
+
+He creado un archivo secundario con más información. Puedes leerlo aquí: [Apuntes sobre Despliegue](apuntes.md).
+
 ##### Licencia
 ###### Licencia
