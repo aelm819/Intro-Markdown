@@ -1,6 +1,7 @@
 # Despliegue de aplicaciones web
 `Curso 2026/2027`
 
+![](https://dmc2vm44yioo9.cloudfront.net/d75b5334-1b50-4ff8-9129-523deefd6499.jpg)
 
 ## Introducción
 Para desplegar una aplicación web vamos a necesitar una **infraestructura** que nos permita alojarla y hacerla accesible a los usuarios a través de Internet.
